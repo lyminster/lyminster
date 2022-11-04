@@ -1,9 +1,11 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rommy</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lyminster&label=Profile%20views&color=0e75b6&style=flat" alt="lyminster" /> </p>
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lyminster" alt="lyminster" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lyminster&label=Profile%20views&color=0e75b6&style=flat" alt="lyminster" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rommy_gautanto" target="blank"><img src="https://img.shields.io/twitter/follow/rommy_gautanto?logo=twitter&style=for-the-badge" alt="rommy_gautanto" /></a> </p>
 
